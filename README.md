@@ -1,5 +1,8 @@
 # GTFS-Vis
 Visualization of GTFS geometry data by kepler.gl
 
-## 室蘭市オープンデータのGTFS
-[kepler.glで export したHTMLのサンプル](https://tkhrmeme.github.io/GTFS-Vis/kepler.gl.html)
+## kepler.glで export したHTMLのサンプル
+
+[室蘭市 道南バスのGTFSデータ可視化](https://tkhrmeme.github.io/GTFS-Vis/kepler.gl.html)
+
+[帯広 北海道拓殖バスのGTFSデータ可視化](https://tkhrmeme.github.io/GTFS-Vis/kepler.gl_takubus_obihiro.html)
